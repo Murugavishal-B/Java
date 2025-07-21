@@ -1,7 +1,6 @@
 package Problems.Method3;
 /** This is an optimized implementation of the Two Sum problem using a hash map for better performance. */
 import java.util.HashMap;
-
 public class twoSum {
     static class Solution {
         public int[] twoSum(int[] nums, int target) {
