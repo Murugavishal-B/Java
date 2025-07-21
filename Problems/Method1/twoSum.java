@@ -18,6 +18,6 @@ public class twoSum {
             int[] nums = {2, 7, 11, 15};
             int target = 9;
             int[] result = solution.twoSum(nums, target);
-            System.out.println("Indices: " + result[0] + ", " + result[1]);
+            System.out.println("Indices: " + result[0] + ", " + result[1]); // Output: Indices: 0, 1
         }    
 }
