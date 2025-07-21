@@ -1,3 +1,4 @@
+/** This is a simple implementation of the Palindrome Number problem. */
 package Problems.Method1;
 public class PalindromeNumber{
   static class Solution {
