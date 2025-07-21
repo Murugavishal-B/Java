@@ -1,5 +1,5 @@
-package Problems.BruteForce;
-
+package Problems.Method1;
+/** This is a simple implementation of the Two Sum problem using a brute force approach. */
 public class twoSum {
   static class Solution {
     public int[] twoSum(int[] nums, int target) {
